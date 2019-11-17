@@ -1,0 +1,13 @@
+h2
+{
+	font-style: italic;color: green
+}
+li,p
+{
+	font-style: italic;color
+}
+body
+{
+background-image:url(images2/18.jpg);
+background-attachment: fixed;
+}
